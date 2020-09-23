@@ -1,3 +1,5 @@
 Olá mundo, bem-vindos à Digital House!
 
 Esta é uma aula de git. Estamos vendo como versionar arquivos.
+
+Agora mais uma alteração para mostrar no GitHub.
